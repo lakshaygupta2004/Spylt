@@ -14,13 +14,16 @@
 
  </div>
 
- <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
+ <h3 style="font-weight:700;font-size:30px;">Spylt Milk</h3>
 
   <div >
-    Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
+   A clone of [Spylt Milk](https://www.spylt.com) built for learning and creative development practice.  
+This project replicates the sleek design, animations, and user experience of the original site.
+    Interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
    </div>
 </div>
+
+---
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -30,11 +33,15 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Assets](#links)
-7. 🌐 [Community](#more)
+7. 🤝 [Contributing](#contributing)
+
+---
 
 ## Introduction
 
 Dive into creating a cutting-edge web experience designed for Awwwards recognition, with **GSAP (GreenSock Animation Platform)** at its core. This project demonstrates how to leverage GSAP's powerful animation capabilities to craft fluid transitions, captivating scroll effects, and dynamic UI interactions, combining it with React and Tailwind CSS for a truly immersive and visually stunning website.
+
+---
 
 ## Tech Stack
 
@@ -42,9 +49,11 @@ Dive into creating a cutting-edge web experience designed for Awwwards recogniti
 - 🌀 Tailwind CSS v4
 - 🎞️ GSAP (GreenSock Animation Platform)
 
+---
+
+
 ## Features
 
-In this course, You’ll learn how to:
 
 - ✨ Parallax Like a Pro
 - ⚡️ Master Clip-Path Magic
@@ -54,11 +63,13 @@ In this course, You’ll learn how to:
 - 👏 Build GSAP Timelines that Actually Feel Good
 - 📱 It's Fully responsive and mobile-friendly
 
+---
+
 ## Quick Start
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone https://github.com/lakshaygupta2004/Spylt.git
 
 # 2. Install dependencies
 npm install
@@ -70,6 +81,8 @@ npm run dev
 # or
 yarn dev
 ```
+
+---
 
 ## Snippets (Code to Copy)
 
@@ -465,14 +478,18 @@ export { flavorlists, nutrientLists, cards };
 
 </details>
 
+
 ## Assets
 
 - 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
 - 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
 - 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
 
-## Community
+---
 
-Join the community and connect with other developers!
+## 🤝 Contributing
 
-[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9)
+Pull requests and suggestions are welcome!
+For major changes, please open an issue first to discuss.
+
+---
